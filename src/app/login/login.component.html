@@ -1,0 +1,17 @@
+<div class="container">
+  <h2>Login Form</h2>
+  <form>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="text" class="form-control" id="email" placeholder="Enter email" name="email" #emailVal>
+    </div>
+    <div class="form-group">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd" #passwordVal>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" name="remember"> Remember me</label>
+    </div>
+    <button type="submit" (click)="loginToDashBoard(emailVal.value,passwordVal.value)" class="btn btn-primary">Submit</button>
+  </form>
+</div>

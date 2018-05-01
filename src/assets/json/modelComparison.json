@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "channel": "Direct",
+      "investment": "$0.00k",
+      "conversionLastClick": 50,
+      "conversionPositionBased": 50,
+      "percentChangeConversion": "0%",
+      "cpcLastClick": "$0.00k",
+      "cpcPositionBased": "$0.00",
+      "percentChangeCPC": ""
+    },
+    {
+      "channel": "Display",
+      "investment": "$923.48k",
+      "conversionLastClick": 94,
+      "conversionPositionBased": 86.07,
+      "percentChangeConversion": "-8.44%",
+      "cpcLastClick": "$9.82k",
+      "cpcPositionBased": "$10.73k",
+      "percentChangeCPC": "9.22%"
+    },
+    {
+      "channel": "Email",
+      "investment": "$151.18k",
+      "conversionLastClick": 88,
+      "conversionPositionBased": 88.9,
+      "percentChangeConversion": "1.03%",
+      "cpcLastClick": "$1.72k",
+      "cpcPositionBased": "$1.70k",
+      "percentChangeCPC": "-1.02%"
+    },
+    {
+      "channel": "OrganicSearch",
+      "investment": "$94.61k",
+      "conversionLastClick": 71,
+      "conversionPositionBased": 65.63,
+      "percentChangeConversion": "-7.60%",
+      "cpcLastClick": "$1.33k",
+      "cpcPositionBased": "$1.44k",
+      "percentChangeCPC": "8.18%"
+    },
+    {
+      "channel": "PaidSearch",
+      "investment": "$136.51k",
+      "conversionLastClick": 85,
+      "conversionPositionBased": 87.6,
+      "percentChangeConversion": "3.06%",
+      "cpcLastClick": "$1.61K",
+      "cpcPositionBased": "$1.56k",
+      "percentChangeCPC": "-2.97%"
+    },
+    {
+      "channel": "SocialMedia",
+      "investment": "$227.36k",
+      "conversionLastClick": 162,
+      "conversionPositionBased": 171.8,
+      "percentChangeConversion": "6.05%",
+      "cpcLastClick": "$1.05k",
+      "cpcPositionBased": "$1.32k",
+      "percentChangeCPC": "-5.71%"
+    }
+  ]
+}
